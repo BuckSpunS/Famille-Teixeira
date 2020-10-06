@@ -1,0 +1,28 @@
+body
+{
+    background-color: #FE4A4A;
+    color: white; 
+}h1{
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+img.displayed {
+	display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+img.displayed2 {
+	float: right;
+}
+img.displayed3 {
+	float: left;
+	margin-left: 0;
+	margin-right: auto;
+}
+img.displayed4 {
+	display: block;
+	margin-left: 0;
+	margin-right: auto;
+}
